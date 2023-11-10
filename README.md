@@ -18,7 +18,7 @@ This is a beginer-level workshop and does not require any prior programming know
 - A Wi-Fi connection
 
 ### Materials
-This repository contains a GoogleColab file that can be used in independent study to learn more about text extraction but will also be used in the workshop. Click [here](https://colab.research.google.com/drive/1-uVpm3TS6_fUPzuFLn7CV6CoUne3B1WA?usp=sharing) and login via a Google account.
+This repository contains a GoogleColab file that can be used in independent study to learn more about text extraction but will also be used in the workshop to show some basic code in action. Click [here](https://colab.research.google.com/drive/1-uVpm3TS6_fUPzuFLn7CV6CoUne3B1WA?usp=sharing) and login via a Google account. Select the 'Copy to Drive' option to download and edit.
 
 The [Sample Images](https://github.com/DCS-training/Image-to-Tech-Text-Extraction/tree/main/Sample%20Images) folder contains images of text and pdf files that can be used for this workshop, although please feel free to try out the tools with your own images of text too. 
 

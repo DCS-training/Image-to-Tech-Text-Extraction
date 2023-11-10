@@ -18,13 +18,15 @@ This is a beginer-level workshop and does not require any prior programming know
 - A Wi-Fi connection
 
 ### Materials
-This repository contains a GoogleColab file that can be used in independent study to learn more about text extraction but will also be used in the workshop to show some basic code in action. Click [here](https://colab.research.google.com/drive/1-uVpm3TS6_fUPzuFLn7CV6CoUne3B1WA?usp=sharing) and login via a Google account. Select the 'Copy to Drive' option to download and edit.
+This repository contains a GoogleColab file that can be used in independent study to learn more about text extraction but will also be used in the workshop to show some basic code in action. Click the logo below and login via a Google account. Select the 'Copy to Drive' option to download and edit.
 
-The [Sample Images](https://github.com/DCS-training/Image-to-Tech-Text-Extraction/tree/main/Sample%20Images) folder contains images of text and pdf files that can be used for this workshop, although feel free tobring your own images of text to work with if you would like. 
+[![GoogleColab](https://github.com/DCS-training/Image-to-Tech-Text-Extraction/blob/main/Github%20Images/GoogleColab.png)](https://colab.research.google.com/drive/1-uVpm3TS6_fUPzuFLn7CV6CoUne3B1WA?usp=sharing)
+
+The [Sample Images](https://github.com/DCS-training/Image-to-Tech-Text-Extraction/tree/main/Sample%20Images) folder contains images of text and pdf files that can be used for this workshop, although feel free to bring your own images of text to work with if you would like. 
 
 ## License and Authors
 All material here collected is free to use but it is covered by a License
 
-License: CC BY-NC 4.0
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 The author of this repository is Ash Charlton. The powerpoint presentation has been adapted from a previous workshop on [OCR](https://github.com/DCS-training/OCR) by Lucia Michielin and Jessica Witte
